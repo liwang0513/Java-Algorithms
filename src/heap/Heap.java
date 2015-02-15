@@ -249,7 +249,7 @@ public class Heap {
 
 			System.out.println();
 
-			printTree(3);
+			printTree(4);
 
 			System.out.println();
 
